@@ -41,7 +41,7 @@ flask_app/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/flask-task-app.git
+   git clone https://github.com/MuhammadHamza1487/Todo-App-Using-Flask.git
    cd flask-task-app
    ```
 
