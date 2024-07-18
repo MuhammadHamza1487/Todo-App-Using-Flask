@@ -53,7 +53,7 @@ flask_app/
 
 3. **Install the required dependencies**
    ```sh
-   pip install -r requirements.txt
+   pip install Flask Flask-SQLAlchemy
    ```
 
 4. **Create the SQLite database**
